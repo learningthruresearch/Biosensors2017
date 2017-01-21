@@ -38,9 +38,10 @@ def comp(nom_fichier_debut, nom_fichier_fin, condition):
     final = [(difference[i] / lista[i]) for i in range(0,len(lista))]    #division between this difference and lentils' initial lenght
     return final
 
-print(comp('data_debut.csv', 'data_fin_fake2.csv', "Sunlight"))
-a = sustraction('data_debut.csv', 'data_fin_fake2.csv', "Sunlight")
-b = sustraction('data_debut.csv', 'data_fin_fake2.csv', "None")
+a = comp('data_debut.csv', 'data_fin.csv', "Sunlight")
+b = comp('data_debut.csv', 'data_fin.csv', "None")
+#a = sustraction('data_debut.csv', 'data_fin.csv', "Sunlight")
+#b = sustraction('data_debut.csv', 'data_fin.csv', "None")
 amoy = (sum(a) / len(a))
 bmoy = (sum(b) / len(b))
 totmoy = [amoy, bmoy]
