@@ -1,0 +1,8 @@
+import csv
+import matplotlib.pyplot as plt
+import numpy as np
+
+data_debut = open(data_debut, 'r')
+data_fin = open(data_fin, 'r')
+print(data_debut)
+print(data_fin)
