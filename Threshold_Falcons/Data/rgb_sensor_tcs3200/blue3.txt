@@ -1,0 +1,56 @@
+n nomapB= 1981  B= 336  
+nomapR= 1115  R= 189  nomapG= 2006  G= 341  noma  B= 336  
+nomapR= 1116  R= 189  nomapG= 2006  G= 341  nomapB= 1981  B= 336  
+nomapR= 1115  R= 189  nomapG= 2006  G= 341  noma  B= 336  
+nomapR= 1116  R= 189  nomapG= 2006  G= 341  nomapB= 1981  B= 336  
+nomapR= 1115  R= 189  nomapG= 2006  G= 341  nomanomapR= 1108  R= 188  nomapG= 1995  G= 339  nomapB= 1970  B= 334  
+nomapR= 1110  R= 188  nomapG= 1996  G= 339  nomapB= 1970  B= 334  
+nomapR= 1110  R= 188  nomapG= 1996  G= 339  nomapB= 1970  B= 334  
+nomapR= 1112  R= 189  nomapG= 1998  G= 339  nomapB= 1969  B= 334  
+nomapR= 1110  R= 188  nomapG= 1998  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 1996  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 1998  G= 339  nomapB= 1971  B= 335  
+nomapR= 1111  R= 188  nomapG= 1998  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 1998  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 1997  G= 339  nomapB= 1969  B= 334  
+nomapR= 1111  R= 188  nomapG= 1999  G= 339  nomapB= 1970  B= 334  
+nomapR= 1112  R= 189  nomapG= 1999  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 1998  G= 339  nomapB= 1970  B= 334  
+nomapR= 1111  R= 188  nomapG= 2005  G= 340  nomapB= 1972  B= 335  
+nomapR= 1112  R= 189  nomapG= 1931  G= 328  nomapB= 1737  B= 295  
+nomapR= 1099  R= 186  nomapG= 1934  G= 328  nomapB= 1738  B= 295  
+nomapR= 1097  R= 186  nomapG= 1930  G= 328  nomapB= 1748  B= 297  
+nomapR= 1099  R= 186  nomapG= 1935  G= 328  nomapB= 1728  B= 293  
+nomapR= 1098  R= 186  nomapG= 1932  G= 328  nomapB= 1733  B= 294  
+nomapR= 1098  R= 186  nomapG= 1935  G= 328  nomapB= 1750  B= 297  
+nomapR= 1099  R= 186  nomapG= 1935  G= 328  nomapB= 1734  B= 294  
+nomapR= 1098  R= 186  nomapG= 1932  G= 328  nomapB= 1739  B= 295  
+nomapR= 1098  R= 186  nomapG= 1934  G= 328  nomapB= 1746  B= 296  
+nomapR= 1099  R= 186  nomapG= 1932  G= 328  nomapB= 1740  B= 295  
+nomapR= 1097  R= 186  nomapG= 1931  G= 328  nomapB= 1750  B= 297  
+nomapR= 1099  R= 186  nomapG= 1938  G= 329  nomapB= 1728  B= 293  
+nomapR= 1098  R= 186  nomapG= 1939  G= 329  nomapB= 1755  B= 298  
+nomapR= 1098  R= 186  nomapG= 1940  G= 329  nomapB= 1760  B= 299  
+nomapR= 1099  R= 186  nomapG= 1938  G= 329  nomapB= 1742  B= 296  
+nomapR= 1098  R= 186  nomapG= 1940  G= 329  nomapB= 1742  B= 296  
+nomapR= 1098  R= 186  nomapG= 1935  G= 328  nomapB= 1736  B= 295  
+nomapR= 1092  R= 185  nomapG= 1935  G= 328  nomapB= 1738  B= 295  
+nomapR= 1098  R= 186  nomapG= 1934  G= 328  nomapB= 1744  B= 296  
+nomapR= 1099  R= 186  nomapG= 1938  G= 329  nomapB= 1763  B= 299  
+nomapR= 1098  R= 186  nomapG= 1941  G= 329  nomapB= 1756  B= 298  
+nomapR= 1098  R= 186  nomapG= 1941  G= 329  nomapB= 1758  B= 298  
+nomapR= 1101  R= 187  nomapG= 1935  G= 328  nomapB= 1746  B= 296  
+nomapR= 1093  R= 185  nomapG= 1934  G= 328  nomapB= 1741  B= 295  
+nomapR= 1099  R= 186  nomapG= 1941  G= 329  nomapB= 1741  B= 295  
+nomapR= 1099  R= 186  nomapG= 1937  G= 329  nomapB= 1742  B= 296  
+nomapR= 1099  R= 186  nomapG= 1943  G= 330  nomapB= 1766  B= 300  
+nomapR= 1100  R= 187  nomapG= 1948  G= 331  nomapB= 1970  B= 334  
+nomapR= 1113  R= 189  nomapG= 2000  G= 340  nomapB= 1978  B= 336  
+nomapR= 1112  R= 189  nomapG= 2005  G= 340  nomapB= 1974  B= 335  
+nomapR= 1114  R= 189  nomapG= 2004  G= 340  nomapB= 1974  B= 335  
+nomapR= 1115  R= 189  nomapG= 2004  G= 340  nomapB= 1974  B= 335  
+nomapR= 1114  R= 189  nomapG= 2004  G= 340  nomapB= 1973  B= 335  
+nomapR= 1114  R= 189  nomapG= 2004  G= 340  nomapB= 1974  B= 335  
+nomapR= 1114  R= 189  nomapG= 2013  G= 342  nomapB= 1972  B= 335  
+nomapR= 1112  R= 189  nomapG= 2004  G= 340  nomapB= 1970  B= 334  
+nomapR= 1112  R= 189  
