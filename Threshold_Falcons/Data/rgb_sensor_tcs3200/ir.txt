@@ -1,0 +1,65 @@
+noir puis ir puis noir
+
+nom5  G= 345  nomapB= 2035  B= 345  
+nomapR= 566  R= 96  pG= 2034  G= 345  nomapB= 2035  B= 345  
+nomapR= 573  R= 97  nomapG= 2035  G= 345  nomapB= 2035  B= 345  
+nomapR= 566  R= 96  nomapR= 564  R= 95  nomapG= 2025  G= 344  nomapB= 2025  B= 344  
+nomapR= 997  R= 169  nomapG= 2028  G= 344  nomapB= 2026  B= 344  
+nomapR= 564  R= 95  nomapG= 2027  G= 344  nomapB= 2028  B= 344  
+nomapR= 571  R= 97  nomapG= 2026  G= 344  nomapB= 2027  B= 344  
+nomapR= 1088  R= 184  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 565  R= 96  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 571  R= 97  nomapG= 2027  G= 344  nomapB= 2028  B= 344  
+nomapR= 565  R= 96  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 565  R= 96  nomapG= 2028  G= 344  nomapB= 2027  B= 344  
+nomapR= 565  R= 96  nomapG= 2027  G= 344  nomapB= 2028  B= 344  
+nomapR= 565  R= 96  nomapG= 2027  G= 344  nomapB= 2029  B= 344  
+nomapR= 565  R= 96  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 571  R= 97  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 564  R= 95  nomapG= 2028  G= 344  nomapB= 2029  B= 344  
+nomapR= 571  R= 97  nomapG= 2028  G= 344  nomapB= 2028  B= 344  
+nomapR= 565  R= 96  nomapG= 2027  G= 344  nomapB= 2029  B= 344  
+nomapR= 571  R= 97  nomapG= 2030  G= 345  nomapB= 2029  B= 344  
+nomapR= 565  R= 96  nomapG= 2028  G= 344  nomapB= 2029  B= 344  
+nomapR= 571  R= 97  nomapG= 2026  G= 344  nomapB= 2028  B= 344  
+nomapR= 564  R= 95  nomapG= 2027  G= 344  nomapB= 2028  B= 344  
+nomapR= 1074  R= 182  nomapG= 2028  G= 344  nomapB= 126  B= 21  
+nomapR= 106  R= 18  nomapG= 128  G= 21  nomapB= 122  B= 20  
+nomapR= 109  R= 18  nomapG= 131  G= 22  nomapB= 132  B= 22  
+nomapR= 101  R= 17  nomapG= 124  G= 21  nomapB= 114  B= 19  
+nomapR= 124  R= 21  nomapG= 115  G= 19  nomapB= 114  B= 19  
+nomapR= 126  R= 21  nomapG= 122  G= 20  nomapB= 125  B= 21  
+nomapR= 105  R= 17  nomapG= 138  G= 23  nomapB= 138  B= 23  
+nomapR= 110  R= 18  nomapG= 139  G= 23  nomapB= 139  B= 23  
+nomapR= 116  R= 19  nomapG= 134  G= 22  nomapB= 140  B= 23  
+nomapR= 117  R= 19  nomapG= 141  G= 23  nomapB= 142  B= 24  
+nomapR= 118  R= 20  nomapG= 142  G= 24  nomapB= 143  B= 24  
+nomapR= 114  R= 19  nomapG= 143  G= 24  nomapB= 143  B= 24  
+nomapR= 113  R= 19  nomapG= 144  G= 24  nomapB= 145  B= 24  
+nomapR= 119  R= 20  nomapG= 145  G= 24  nomapB= 146  B= 24  
+nomapR= 115  R= 19  nomapG= 146  G= 24  nomapB= 146  B= 24  
+nomapR= 109  R= 18  nomapG= 147  G= 24  nomapB= 147  B= 24  
+nomapR= 110  R= 18  nomapG= 147  G= 24  nomapB= 147  B= 24  
+nomapR= 115  R= 19  nomapG= 149  G= 25  nomapB= 148  B= 25  
+nomapR= 116  R= 19  nomapG= 149  G= 25  nomapB= 149  B= 25  
+nomapR= 117  R= 19  nomapG= 150  G= 25  nomapB= 150  B= 25  
+nomapR= 124  R= 21  nomapG= 150  G= 25  nomapB= 150  B= 25  
+nomapR= 117  R= 19  nomapG= 151  G= 25  nomapB= 151  B= 25  
+nomapR= 124  R= 21  nomapG= 151  G= 25  nomapB= 152  B= 25  
+nomapR= 124  R= 21  nomapG= 152  G= 25  nomapB= 152  B= 25  
+nomapR= 125  R= 21  nomapG= 152  G= 25  nomapB= 147  B= 24  
+nomapR= 125  R= 21  nomapG= 251  G= 42  nomapB= 2008  B= 341  
+nomapR= 565  R= 96  nomapG= 2030  G= 345  nomapB= 2029  B= 344  
+nomapR= 565  R= 96  nomapG= 2030  G= 345  nomapB= 2030  B= 345  
+nomapR= 565  R= 96  nomapG= 2030  G= 345  nomapB= 2029  B= 344  
+nomapR= 565  R= 96  nomapG= 2030  G= 345  nomapB= 2030  B= 345  
+nomapR= 572  R= 97  nomapG= 2029  G= 344  nomapB= 2029  B= 344  
+nomapR= 572  R= 97  nomapG= 2028  G= 344  nomapB= 2029  B= 344  
+nomapR= 565  R= 96  nomapG= 2030  G= 345  nomapB= 2029  B= 344  
+nomapR= 566  R= 96  nomapG= 2030  G= 345  nomapB= 2030  B= 345  
+nomapR= 565  R= 96  nomapG= 2029  G= 344  nomapB= 1697  B= 288  
+nomapR= 1152  R= 195  nomapG= 1365  G= 232  nomapB= 1425  B= 242  
+nomapR= 946  R= 160  nomapG= 2028  G= 344  nomapB= 1699  B= 288  
+nomapR= 1145  R= 194  nomapG= 2027  G= 344  nomapB= 2029  B= 344  
+nomapR= 947  R= 160  nomapG= 831  G= 141  nomapB= 1739  B= 295  
+n

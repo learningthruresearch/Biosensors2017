@@ -1,0 +1,44 @@
+no
+nomapR= 1082  R= 183  nomapG= 1942  G= 330  nomapB= 1927  B= 327  
+nomapR= 1081  R= 183  nomapG= 1941  G= 329  nomapR= 1075  R= 182  nomapG= 1933  G= 328  nomapB= 1920  B= 326  
+nomapR= 1077  R= 183  nomapG= 1934  G= 328  nomapB= 1926  B= 327  
+nomapR= 1077  R= 183  nomapG= 1940  G= 329  nomapB= 1920  B= 326  
+nomapR= 1072  R= 182  nomapG= 1936  G= 329  nomapB= 1919  B= 326  
+nomapR= 1078  R= 183  nomapG= 1933  G= 328  nomapB= 1920  B= 326  
+nomapR= 1077  R= 183  nomapG= 1934  G= 328  nomapB= 1921  B= 326  
+nomapR= 1078  R= 183  nomapG= 1936  G= 329  nomapB= 1928  B= 327  
+nomapR= 1078  R= 183  nomapG= 1935  G= 328  nomapB= 1920  B= 326  
+nomapR= 1079  R= 183  nomapG= 1940  G= 329  nomapB= 1920  B= 326  
+nomapR= 1072  R= 182  nomapG= 1934  G= 328  nomapB= 1920  B= 326  
+nomapR= 1079  R= 183  nomapG= 1936  G= 329  nomapB= 1921  B= 326  
+nomapR= 1078  R= 183  nomapG= 1935  G= 328  nomapB= 1919  B= 326  
+nomapR= 1078  R= 183  nomapG= 1553  G= 264  nomapB= 1533  B= 260  
+nomapR= 909  R= 154  nomapG= 1563  G= 265  nomapB= 1535  B= 260  
+nomapR= 910  R= 154  nomapG= 1559  G= 265  nomapB= 1536  B= 261  
+nomapR= 910  R= 154  nomapG= 1558  G= 264  nomapB= 1542  B= 262  
+nomapR= 917  R= 155  nomapG= 1567  G= 266  nomapB= 1540  B= 261  
+nomapR= 910  R= 154  nomapG= 1561  G= 265  nomapB= 1547  B= 262  
+nomapR= 911  R= 154  nomapG= 1563  G= 265  nomapB= 1549  B= 263  
+nomapR= 911  R= 154  nomapG= 1563  G= 265  nomapB= 1549  B= 263  
+nomapR= 911  R= 154  nomapG= 1565  G= 266  nomapB= 1551  B= 263  
+nomapR= 911  R= 154  nomapG= 1573  G= 267  nomapB= 1545  B= 262  
+nomapR= 915  R= 155  nomapG= 1566  G= 266  nomapB= 1552  B= 263  
+nomapR= 912  R= 155  nomapG= 1574  G= 267  nomapB= 1553  B= 264  
+nomapR= 914  R= 155  nomapG= 1574  G= 267  nomapB= 1553  B= 264  
+nomapR= 913  R= 155  nomapG= 1567  G= 266  nomapB= 1553  B= 264  
+nomapR= 911  R= 154  nomapG= 1584  G= 269  nomapB= 1583  B= 269  
+nomapR= 929  R= 157  nomapG= 1600  G= 272  nomapB= 1557  B= 264  
+nomapR= 923  R= 156  nomapG= 1597  G= 271  nomapB= 1569  B= 266  
+nomapR= 930  R= 158  nomapG= 1602  G= 272  nomapB= 1564  B= 265  
+nomapR= 1078  R= 183  nomapG= 1935  G= 328  nomapB= 1919  B= 326  
+nomapR= 1078  R= 183  nomapG= 1934  G= 328  nomapB= 1920  B= 326  
+nomapR= 1079  R= 183  nomapG= 1935  G= 328  nomapB= 1920  B= 326  
+nomapR= 1079  R= 183  nomapG= 1938  G= 329  nomapB= 1921  B= 326  
+nomapR= 1073  R= 182  nomapG= 1937  G= 329  nomapB= 1921  B= 326  
+nomapR= 1079  R= 183  nomapG= 1935  G= 328  nomapB= 1926  B= 327  
+nomapR= 1081  R= 183  nomapG= 1940  G= 329  nomapB= 1924  B= 327  
+nomapR= 1082  R= 183  nomapG= 1942  G= 330  nomapB= 1927  B= 327  
+nomapR= 1081  R= 183  nomapG= 1941  G= 329  nomapB= 1926  B= 327  
+nomapR= 1082  R= 183  nomapG= 1942  G= 330  nomapB= 1923  B= 326  
+nomapR= 1081  R= 183  nomapG= 1941  G= 329  nomapB= 1923  B= 326  
+nomapR= 1082  R= 183  nomapG= 1941  G= 329  nomap

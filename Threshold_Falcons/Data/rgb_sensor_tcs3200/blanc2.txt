@@ -1,0 +1,36 @@
+no G= 337  nomapB= 1970  B= 334  
+nomapR= 1101  R= 187  nomapG= 1990  G= 338  nomapB= 1965  B= 334  
+nomapR= 1100  R= 187  nomapR= 1094  R= 185  nomapG= 1974  G= 335  nomapB= 1959  B= 333  
+nomapR= 1097  R= 186  nomapG= 1982  G= 336  nomapB= 1958  B= 332  
+nomapR= 1098  R= 186  nomapG= 1978  G= 336  nomapB= 1959  B= 333  
+nomapR= 1098  R= 186  nomapG= 1978  G= 336  nomapB= 1959  B= 333  
+nomapR= 1098  R= 186  nomapG= 1977  G= 336  nomapB= 1960  B= 333  
+nomapR= 1098  R= 186  nomapG= 1977  G= 336  nomapB= 1960  B= 333  
+nomapR= 1095  R= 186  nomapG= 1978  G= 336  nomapB= 1964  B= 333  
+nomapR= 1097  R= 186  nomapG= 1978  G= 336  nomapB= 1959  B= 333  
+nomapR= 1098  R= 186  nomapG= 1985  G= 337  nomapB= 1963  B= 333  
+nomapR= 1101  R= 187  nomapG= 1626  G= 276  nomapB= 1607  B= 273  
+nomapR= 953  R= 162  nomapG= 1641  G= 278  nomapB= 1600  B= 272  
+nomapR= 949  R= 161  nomapG= 1630  G= 277  nomapB= 1596  B= 271  
+nomapR= 950  R= 161  nomapG= 1631  G= 277  nomapB= 1598  B= 271  
+nomapR= 951  R= 161  nomapG= 1631  G= 277  nomapB= 1598  B= 271  
+nomapR= 950  R= 161  nomapG= 1631  G= 277  nomapB= 1602  B= 272  
+nomapR= 950  R= 161  nomapG= 1627  G= 276  nomapB= 1604  B= 272  
+nomapR= 951  R= 161  nomapG= 1634  G= 277  nomapB= 1614  B= 274  
+nomapR= 953  R= 162  nomapG= 1631  G= 277  nomapB= 1601  B= 272  
+nomapR= 950  R= 161  nomapG= 1627  G= 276  nomapB= 1600  B= 272  
+nomapR= 954  R= 162  nomapG= 1636  G= 278  nomapB= 1654  B= 281  
+nomapR= 960  R= 163  nomapG= 1667  G= 283  nomapB= 1626  B= 276  
+nomapR= 956  R= 162  nomapG= 1642  G= 279  nomapB= 1618  B= 275  
+nomapR= 961  R= 163  nomapG= 1648  G= 280  nomapB= 1618  B= 275  
+nomapR= 958  R= 162  nomapG= 1634  G= 277  nomapB= 1616  B= 274  
+nomapR= 956  R= 162  nomapG= 1631  G= 277  nomapB= 1603  B= 272  
+nomapR= 955  R= 162  nomapG= 1637  G= 278  nomapB= 1596  B= 271  
+nomapR= 974  R= 165  nomapG= 1978  G= 336  nomapB= 1966  B= 334  
+nomapR= 1099  R= 186  nomapG= 1981  G= 336  nomapB= 1961  B= 333  
+nomapR= 1099  R= 186  nomapG= 1980  G= 336  nomapB= 1961  B= 333  
+nomapR= 1100  R= 187  nomapG= 1981  G= 336  nomapB= 1962  B= 333  
+nomapR= 1101  R= 187  nomapG= 1980  G= 336  nomapB= 1963  B= 333  
+nomapR= 1097  R= 186  nomapG= 1980  G= 336  nomapB= 1963  B= 333  
+nomapR= 1101  R= 187  nomapG= 1999  G= 339  nomapB= 1963  B= 333  
+nomapR= 1101  R= 187  nomapG= 198

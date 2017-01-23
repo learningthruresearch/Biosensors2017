@@ -1,0 +1,64 @@
+noir puis led rouge puis noir
+
+nomomapR= 1160  R= 197  2056  G= 349  nomapB= 2011  B= 341  
+nomapR= 1158  R= 196  nomapG= 2059  G= 350  nomapB= 2011  B= 341  
+nomapR= 1160  R= 197  nomapR= 1154  R= 196  nomapG= 2054  G= 349  nomapB= 2009  B= 341  
+nomapR= 1156  R= 196  nomapG= 2055  G= 349  nomapB= 2005  B= 340  
+nomapR= 1157  R= 196  nomapG= 2056  G= 349  nomapB= 2008  B= 341  
+nomapR= 1157  R= 196  nomapG= 2057  G= 349  nomapB= 2007  B= 341  
+nomapR= 1155  R= 196  nomapG= 2056  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2055  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2053  G= 349  nomapB= 2005  B= 340  
+nomapR= 1150  R= 195  nomapG= 2053  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2055  G= 349  nomapB= 2005  B= 340  
+nomapR= 1155  R= 196  nomapG= 2054  G= 349  nomapB= 2005  B= 340  
+nomapR= 1157  R= 196  nomapG= 2054  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2055  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2055  G= 349  nomapB= 2005  B= 340  
+nomapR= 1156  R= 196  nomapG= 2053  G= 349  nomapB= 2005  B= 340  
+nomapR= 1156  R= 196  nomapG= 2053  G= 349  nomapB= 2004  B= 340  
+nomapR= 1156  R= 196  nomapG= 2054  G= 349  nomapB= 2006  B= 341  
+nomapR= 1157  R= 196  nomapG= 2055  G= 349  nomapB= 2006  B= 341  
+nomapR= 917  R= 155  nomapG= 1817  G= 308  nomapB= 1757  B= 298  
+nomapR= 926  R= 157  nomapG= 1827  G= 310  nomapB= 1757  B= 298  
+nomapR= 923  R= 156  nomapG= 1821  G= 309  nomapB= 1760  B= 299  
+nomapR= 924  R= 157  nomapG= 1823  G= 309  nomapB= 1762  B= 299  
+nomapR= 925  R= 157  nomapG= 1824  G= 310  nomapB= 1763  B= 299  
+nomapR= 927  R= 157  nomapG= 1825  G= 310  nomapB= 1763  B= 299  
+nomapR= 928  R= 157  nomapG= 1826  G= 310  nomapB= 1766  B= 300  
+nomapR= 928  R= 157  nomapG= 1828  G= 310  nomapB= 1767  B= 300  
+nomapR= 929  R= 157  nomapG= 1829  G= 310  nomapB= 1767  B= 300  
+nomapR= 931  R= 158  nomapG= 1829  G= 310  nomapB= 1774  B= 301  
+nomapR= 931  R= 158  nomapG= 1829  G= 310  nomapB= 1767  B= 300  
+nomapR= 932  R= 158  nomapG= 1829  G= 310  nomapB= 1768  B= 300  
+nomapR= 938  R= 159  nomapG= 1830  G= 311  nomapB= 1769  B= 300  
+nomapR= 939  R= 159  nomapG= 1837  G= 312  nomapB= 1771  B= 301  
+nomapR= 933  R= 158  nomapG= 1831  G= 311  nomapB= 1771  B= 301  
+nomapR= 934  R= 158  nomapG= 1832  G= 311  nomapB= 1771  B= 301  
+nomapR= 934  R= 158  nomapG= 1833  G= 311  nomapB= 1772  B= 301  
+nomapR= 941  R= 159  nomapG= 1832  G= 311  nomapB= 1772  B= 301  
+nomapR= 935  R= 158  nomapG= 1832  G= 311  nomapB= 1773  B= 301  
+nomapR= 936  R= 159  nomapG= 1838  G= 312  nomapB= 1779  B= 302  
+nomapR= 935  R= 158  nomapG= 1834  G= 311  nomapB= 1774  B= 301  
+nomapR= 936  R= 159  nomapG= 1841  G= 312  nomapB= 1779  B= 302  
+nomapR= 937  R= 159  nomapG= 1835  G= 311  nomapB= 1773  B= 301  
+nomapR= 937  R= 159  nomapG= 1834  G= 311  nomapB= 1773  B= 301  
+nomapR= 937  R= 159  nomapG= 1834  G= 311  nomapB= 1774  B= 301  
+nomapR= 937  R= 159  nomapG= 1842  G= 313  nomapB= 1781  B= 302  
+nomapR= 963  R= 163  nomapG= 1908  G= 324  nomapB= 1881  B= 319  
+nomapR= 1064  R= 180  nomapG= 1995  G= 339  nomapB= 1968  B= 334  
+nomapR= 1143  R= 194  nomapG= 2053  G= 349  nomapB= 2005  B= 340  
+nomapR= 1158  R= 196  nomapG= 2056  G= 349  nomapB= 2006  B= 341  
+nomapR= 1157  R= 196  nomapG= 2057  G= 349  nomapB= 2007  B= 341  
+nomapR= 1152  R= 195  nomapG= 2056  G= 349  nomapB= 2008  B= 341  
+nomapR= 1159  R= 197  nomapG= 2060  G= 350  nomapB= 2009  B= 341  
+nomapR= 1159  R= 197  nomapG= 2058  G= 349  nomapB= 2007  B= 341  
+nomapR= 1159  R= 197  nomapG= 2057  G= 349  nomapB= 2007  B= 341  
+nomapR= 1159  R= 197  nomapG= 2058  G= 349  nomapB= 2008  B= 341  
+nomapR= 1159  R= 197  nomapG= 2059  G= 350  nomapB= 2008  B= 341  
+nomapR= 1158  R= 196  nomapG= 2060  G= 350  nomapB= 2007  B= 341  
+nomapR= 1160  R= 197  nomapG= 2058  G= 349  nomapB= 2007  B= 341  
+nomapR= 1158  R= 196  nomapG= 2058  G= 349  nomapB= 2009  B= 341  
+nomapR= 1158  R= 196  nomapG= 2056  G= 349  nomapB= 2007  B= 341  
+nomapR= 1152  R= 195  nomapG= 2059  G= 350  nomapB= 2009  B= 341  
+nomapR= 1158  R= 196  
