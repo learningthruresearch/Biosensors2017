@@ -1,0 +1,46 @@
+noir, puis lumière blanche
+
+= 11apB= 1988  B= 337  
+nomapR= 1149  R= 195  nomapG= 2042  G= 347  1989  B= 338  
+nomapR= 1145  R= 194  nomapG= 2045  G= 347  nomapB= 1988  B= 337  
+nomapR= 1149  R= 195  nomapG= 2042  G= 347  1989  B= 338  
+nomapR= 1145  R= 194  nomapG= 2045  G= 347  nomapB= 1988  B= 337  
+nomapR= 1149  R= 195  nomapG= 2042  G= 347  nomapR= 1143  R= 194  nomapG= 2034  G= 345  nomapB= 1981  B= 336  
+nomapR= 1145  R= 194  nomapG= 2035  G= 345  nomapB= 1981  B= 336  
+nomapR= 1146  R= 194  nomapG= 2036  G= 346  nomapB= 1982  B= 336  
+nomapR= 1139  R= 193  nomapG= 2035  G= 345  nomapB= 1982  B= 336  
+nomapR= 1145  R= 194  nomapG= 2035  G= 345  nomapB= 1983  B= 337  
+nomapR= 1147  R= 194  nomapG= 2035  G= 345  nomapB= 1981  B= 336  
+nomapR= 1146  R= 194  nomapG= 2036  G= 346  nomapB= 1980  B= 336  
+nomapR= 1145  R= 194  nomapG= 2036  G= 346  nomapB= 1982  B= 336  
+nomapR= 1054  R= 179  nomapG= 1840  G= 312  nomapB= 1791  B= 304  
+nomapR= 1056  R= 179  nomapG= 1842  G= 313  nomapB= 1793  B= 304  
+nomapR= 1057  R= 179  nomapG= 1844  G= 313  nomapB= 1800  B= 306  
+nomapR= 1057  R= 179  nomapG= 1844  G= 313  nomapB= 1795  B= 305  
+nomapR= 1057  R= 179  nomapG= 1845  G= 313  nomapB= 1796  B= 305  
+nomapR= 1057  R= 179  nomapG= 1846  G= 313  nomapB= 1803  B= 306  
+nomapR= 1059  R= 180  nomapG= 1854  G= 315  nomapB= 1798  B= 305  
+nomapR= 1059  R= 180  nomapG= 1848  G= 314  nomapB= 1799  B= 305  
+nomapR= 1060  R= 180  nomapG= 1847  G= 313  nomapB= 1798  B= 305  
+nomapR= 1059  R= 180  nomapG= 1847  G= 313  nomapB= 1805  B= 306  
+nomapR= 1060  R= 180  nomapG= 1854  G= 315  nomapB= 1798  B= 305  
+nomapR= 1060  R= 180  nomapG= 1856  G= 315  nomapB= 1800  B= 306  
+nomapR= 1061  R= 180  nomapG= 1851  G= 314  nomapB= 1806  B= 307  
+nomapR= 1060  R= 180  nomapG= 1850  G= 314  nomapB= 1800  B= 306  
+nomapR= 1054  R= 179  nomapG= 1851  G= 314  nomapB= 1801  B= 306  
+nomapR= 1061  R= 180  nomapG= 1852  G= 314  nomapB= 1801  B= 306  
+nomapR= 1061  R= 180  nomapG= 1852  G= 314  nomapB= 1801  B= 306  
+nomapR= 1054  R= 179  nomapG= 1852  G= 314  nomapB= 1803  B= 306  
+nomapR= 1061  R= 180  nomapG= 1853  G= 315  nomapB= 1803  B= 306  
+nomapR= 1062  R= 180  nomapG= 1853  G= 315  nomapB= 1812  B= 308  
+nomapR= 1063  R= 180  nomapG= 1854  G= 315  nomapB= 1802  B= 306  
+nomapR= 1146  R= 194  nomapG= 2035  G= 345  nomapB= 1983  B= 337  
+nomapR= 1145  R= 194  nomapG= 2036  G= 346  nomapB= 1984  B= 337  
+nomapR= 1146  R= 194  nomapG= 2038  G= 346  nomapB= 1983  B= 337  
+nomapR= 1147  R= 194  nomapG= 2040  G= 346  nomapB= 1983  B= 337  
+nomapR= 1147  R= 194  nomapG= 2038  G= 346  nomapB= 1982  B= 336  
+nomapR= 1147  R= 194  nomapG= 2037  G= 346  nomapB= 1983  B= 337  
+nomapR= 1146  R= 194  nomapG= 2036  G= 346  nomapB= 1983  B= 337  
+nomapR= 1147  R= 194  nomapG= 2038  G= 346  nomapB= 1983  B= 337  
+nomapR= 1148  R= 195  nomapG= 2038  G= 346  nomapB= 1984  B= 337  
+nomapR= 1150  R= 195  nomapG= 2039  G= 346  
