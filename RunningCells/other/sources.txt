@@ -1,0 +1,26 @@
+Adjusting Brightness | All About LEDs | Adafruit Learning System.â€ Accessed January 20, 2017. 
+https://learn.adafruit.com/all-about-leds/adjusting-brightness
+
+Candela to Lux (Lx) Conversion Calculator. Accessed January 20, 2017. 
+http://www.rapidtables.com/calc/light/candela-to-lux-calculator.htm
+
+Conversion Des PPF (ÂµMOL M-2 S-1) En Lux. Accessed January 20, 2017. 
+http://www.mesurez.com/conversion-ppf-mol-lux.html
+
+Fiche - Egeria-Densa-Sr.pdf. Accessed January 20, 2017. 
+http://www.centrederessources-loirenature.com/mediatheque/especes_inva/fiches_FCBN/Fiche%20-%20egeria-densa-sr.pdf
+
+Snapshot. Accessed January 20, 2017. 
+http://www.projetsdiy.fr/led-allumer-intensite-rgb-arduino/#.WIHROHXhBNx
+
+Measure Light Intensity Using Light Dependent Resistor (LDR). Accessed January 20, 2017. 
+http://emant.com/316002.page
+
+Notre Premier Programme! - Tuto Arduino. Le Blog d'Eskimon, December 10, 2013. 
+http://eskimon.fr/91-arduino-201-notre-premier-programme
+
+admin. [Tuto] Allumer Une LED. Letmeknow, August 6, 2013. 
+http://letmeknow.fr/blog/2013/08/06/allumer-une-led/
+
+Rascio, N., Mariani, P., Tommasini, E. et al. Planta (1991) 185: 297. doi:10.1007/BF00201047
+http://link.springer.com/article/10.1007/BF00201047
