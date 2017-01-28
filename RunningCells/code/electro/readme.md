@@ -1,1 +1,1 @@
-electro
+Electronic part of the project.
