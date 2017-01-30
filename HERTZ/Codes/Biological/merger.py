@@ -1,3 +1,5 @@
+# execute this with python2, python3 doesn't seem to like next() method
+
 import glob
 
 interesting_files = glob.glob("*.csv") 
