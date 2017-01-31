@@ -1,0 +1,52 @@
+import matplotlib.pyplot as plt
+
+frq = 1.2
+
+file = open('90%(3).csv', 'r')
+
+grosseliste = []
+time = []
+
+mesure1 = []
+mesure2 = []
+mesure3 = []
+
+listeR1 = []
+listeG1 = []
+listeB1 = []
+
+listeR2 = []
+listeG2 = []
+listeB2 = []
+
+listeR3 = []
+listeG3 = []
+listeB3 = []
+
+for aline in file.readlines():
+    miniliste = aline.split('\r\n')
+    del miniliste[-1]
+    grosseliste.append(miniliste)
+
+for i in range(1, 2000):
+    mesure1.append(grosseliste[i])
+for i in range(2001, 4000):
+    mesure2.append(grosseliste[i])
+for i in range(4001, 6000):
+    mesure3.append(grosseliste[i])
+
+for i in range(1, 2000):
+    time.append(i * frq)
+
+plt.subplot(311)
+plt.plot(time, mesure1, color = 'r', label ='red')
+plt.title('Piezo element measurement according to time')
+plt.subplot(312)
+plt.plot(time, mesure2, color = 'r', label ='red')
+plt.ylabel('Piezo element value(no unit))')
+plt.subplot(313)
+plt.plot(time, mesure3, color = 'r', label ='red')
+plt.xlabel('time(ms)')
+plt.show()
+
+file.close()
