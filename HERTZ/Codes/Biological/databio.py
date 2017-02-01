@@ -221,9 +221,9 @@ for flier in bp2['fliers']:
     flier.set(marker='+', color='r', alpha=0.5)
 
 
-fig.savefig('electronic_60Hz.png')
-fig1.savefig('electronic_250Hz.png')
-fig2.savefig('electronic_2000Hz.png')
+fig.savefig('biologic_60Hz.png')
+fig1.savefig('biologic_250Hz.png')
+fig2.savefig('biologic_2000Hz.png')
 
 
 
