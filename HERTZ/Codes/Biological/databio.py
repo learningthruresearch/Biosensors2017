@@ -1,14 +1,10 @@
 import csv
-import matplotlib.pyplot as plt
-import numpy as np
-import pylab
-import re
 
 fichier = open('output.csv', 'rb')                   # opens the file
 subjects = dict()                                    # creates a dictionary for subjects
 a = fichier.readlines()                              # reads everyline of the file
 for i in range(1,len(a)):                            # loop to fill the dictionary
-    data = str(a[i]).replace("\\n'", '').split(',')  # deletes the '\\n' and makes a list out of the values separed by a ','
+    data = str(a[i]).replace("\\n'", '').replace('"','').split(',')  # deletes the '\\n' and makes a list out of the values separed by a ','
     if len(data) >= 9:                               # valid data?
         subjectID = data[8]                          # takes the number of subject
         if subjectID not in subjects:                # verify if the number of subject is a key for the dictionary
