@@ -62,6 +62,47 @@ print(counting(freq60Hz))
 print(counting(freq250Hz))
 print(counting(freq2000Hz))
 
+a = counting(freq60Hz)
+b = counting(freq250Hz)
+c = counting(freq2000Hz)
+
+#Statistic tests
+  #60Hz
+print("T-tests for 60Hz\n60Hz-0diff and 60Hz-2diff")
+print("Avegage 60Hz-0diff: ", sum(a.get('60Hz-0diff'))/len(a.get('60Hz-0diff')))
+print("Avegage 60Hz-2diff: ", sum(a.get('60Hz-2diff'))/len(a.get('60Hz-2diff')))
+print(scipy.stats.ttest_ind(a.get('60Hz-2diff'), a.get('60Hz-0diff')))
+print("\n60Hz-2diff and 60Hz-4diff")
+print("Avegage 60Hz-2diff: ", sum(a.get('60Hz-2diff'))/len(a.get('60Hz-2diff')))
+print("Avegage 60Hz-4diff: ", sum(a.get('60Hz-4diff'))/len(a.get('60Hz-4diff')))
+print(scipy.stats.ttest_ind(a.get('60Hz-2diff'), a.get('60Hz-4diff')))
+
+print("\n\nT-tests for 250Hz\n250Hz-0diff and 250Hz-2diff")
+print("Avegage 250Hz-0diff: ", sum(b.get('250Hz-0diff'))/len(b.get('250Hz-0diff')))
+print("Avegage 250Hz-2diff: ", sum(b.get('250Hz-2diff'))/len(b.get('250Hz-2diff')))
+print(scipy.stats.ttest_ind(b.get('250Hz-2diff'), b.get('250Hz-0diff')))
+print("\n250Hz-2diff and 250Hz-4diff")
+print("Avegage 250Hz-2diff: ", sum(b.get('250Hz-2diff'))/len(b.get('250Hz-2diff')))
+print("Avegage 250Hz-4diff: ", sum(b.get('250Hz-4diff'))/len(b.get('250Hz-4diff')))
+print(scipy.stats.ttest_ind(b.get('250Hz-2diff'), b.get('250Hz-4diff')))
+
+print("\n\nT-tests for 2000Hz\n2000Hz-0diff and 2000Hz-2diff")
+print("Avegage 2000Hz-0diff: ", sum(c.get('2000Hz-0diff'))/len(c.get('2000Hz-0diff')))
+print("Avegage 2000Hz-2diff: ", sum(c.get('2000Hz-2diff'))/len(c.get('2000Hz-2diff')))
+print(scipy.stats.ttest_ind(c.get('2000Hz-2diff'), c.get('2000Hz-0diff')))
+print("\n2000Hz-2diff and 2000Hz-4diff")
+print("Avegage 2000Hz-2diff: ", sum(c.get('2000Hz-2diff'))/len(c.get('2000Hz-2diff')))
+print("Avegage 2000Hz-4diff: ", sum(c.get('2000Hz-4diff'))/len(c.get('2000Hz-4diff')))
+print(scipy.stats.ttest_ind(c.get('2000Hz-2diff'), c.get('2000Hz-4diff')))
+print("Avegage 2000Hz-4diff: ", sum(c.get('2000Hz-4diff'))/len(c.get('2000Hz-4diff')))
+print("Avegage 2000Hz-8diff: ", sum(c.get('2000Hz-8diff'))/len(c.get('2000Hz-8diff')))
+print(scipy.stats.ttest_ind(c.get('2000Hz-8diff'), c.get('2000Hz-4diff')))
+print("Avegage 2000Hz-8diff: ", sum(c.get('2000Hz-8diff'))/len(c.get('2000Hz-8diff')))
+print("Avegage 2000Hz-20diff: ", sum(c.get('2000Hz-20diff'))/len(c.get('2000Hz-20diff')))
+print(scipy.stats.ttest_ind(c.get('2000Hz-8diff'), c.get('2000Hz-20diff')))
+
+
+#Graphs
 cle = ['0 Hz', '2 Hz', '4 Hz', '8 Hz', '20 Hz']
 
 fig = plt.figure(1, figsize=(9, 6))
