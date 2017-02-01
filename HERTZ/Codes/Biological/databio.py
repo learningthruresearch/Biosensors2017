@@ -4,7 +4,7 @@ import numpy as np
 import pylab
 import re
 
-fichier = open('subject_false.csv', 'rb')            # opens the file
+fichier = open('output.csv', 'rb')                   # opens the file
 subjects = dict()                                    # creates a dictionary for subjects
 a = fichier.readlines()                              # reads everyline of the file
 for i in range(1,len(a)):                            # loop to fill the dictionary
