@@ -1,7 +1,7 @@
 # coding = UTF-8
 # written by Samuel Churlaud
 # see github.com/learningthruresearch/Biosensors2017/tree/master/poworm_rangers
-# version 2.0
+# version 2.1
 
 # modules
 import matplotlib.pyplot as plt
@@ -18,14 +18,14 @@ def getData():
 
     for i in listVibrations:
         for j in range(numberData):
-            with open('data_test/25_' + str(i) + '_' + str(j + 1), 'r') as rawData:
+            with open('data/25_' + str(i) + '_' + str(j + 1), 'r') as rawData:
                 for line in rawData:
                     key = i
                     cleanData25[key].append(line.strip('\n'))
 
     for i in listVibrations:
         for j in range(numberData):
-            with open('data_test/40_' + str(i) + '_' + str(j + 1), 'r') as rawData:
+            with open('data/40_' + str(i) + '_' + str(j + 1), 'r') as rawData:
                 for line in rawData:
                     key = i
                     cleanData40[key].append(line.strip('\n'))
