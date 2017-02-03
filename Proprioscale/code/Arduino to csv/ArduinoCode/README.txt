@@ -1,0 +1,1 @@
+This code has to be televersed in an arduino uno which is linked with the device you can find in the SchemaArduinoFSR. The resistor is 10kilohm
