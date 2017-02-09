@@ -7,6 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math as m
 
+#Opens the serial from Arduino and writes in a csv file
 ser = serial.Serial('/dev/ttyACM2', 38400)      
 myfile = open('a0.csv', 'a') 
 write = csv.writer(myfile)
