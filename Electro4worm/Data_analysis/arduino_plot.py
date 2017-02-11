@@ -7,6 +7,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math as m
 
+
+#Function that add the values of the movuino in a big list from reading the csv file
 normef = []
 def donnee(file):
 
@@ -26,8 +28,9 @@ def donnee(file):
 		z.append(int(a[2]))
 		norme.append(m.sqrt(x[i]**2 + y[i]**2 + z[i]**2))
 		i += 1
-	normef.append(norme)
+normef.append(norme)
 
+#Apply the function with every csv file you have
 donnee('A0.csv')
 donnee('A1.csv')
 donnee('A2.csv')
@@ -48,6 +51,8 @@ donnee('A16.csv')
 donnee('A17.csv')
 donnee('A18.csv')
 
+
+#plots the boxplots using the boxes
 fig = plt.figure()
 plt.boxplot(normef)
 plt.xticks([1, 2, 3, 4, 5, 6, 7, 8, 9 , 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],['0', '1', '2', '3', '4', '5', '6', '7', '8','9', '10' , '11' , '12' , '13' , '14' , '15' , '16' , '17' , '18' , '19', '20'])
