@@ -18,7 +18,7 @@ def donnee(file):
         p = c[i]/(c[i+1]+c[i])  # make a pourcentage of the total area that is above the line
         allratio.append(p)
 
-donnee('Log.csv')
+donnee('fractaldata.csv')
 
 fig = plt.figure()
 plt.plot(Inten, allratio, 'g+', mew=3, ms=10)   # mew = marker edge width, ms = marker size
