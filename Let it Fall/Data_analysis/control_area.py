@@ -6,7 +6,7 @@ import csv
 
 # Execute this program with Python2
 
-Inten = [0, 20, 20, 20, 40, 40, 40, 60, 60, 60, 80, 100, 100]
+Inten = [0, 0, 100, 100]
 allratio = []
 
 def donnee(file):
@@ -25,20 +25,16 @@ def donnee(file):
                 p = a[i]/(a[i+1]+a[i])  # make a pourcentage of the total area that is above the line
             allratio.append(p)
 
-donnee('0mur.csv')
-donnee('20.csv')
-donnee('40.csv')
-donnee('60.csv')
-donnee('80.csv')
-donnee('100.csv')
+donnee('0l0g.csv')
+donnee('100l0g.csv')
 
 
-fig = plt.figure()
+#fig = plt.figure()
 plt.plot(Inten, allratio, 'g+', mew=3, ms=10)   # mew = marker edge width, ms = marker size
 plt.xlim(-2, 102)
-plt.ylim(-0.1, 1.1)
-plt.title("Development towards light and gravity in function of the intensity of light", size=23)
+plt.ylim(0, 1.1)
+plt.title("Controls: Development towards light in function of the intensity of light", size=23)
 plt.xlabel("Intensity of LED (%)", size=23)
-plt.ylabel("ratio of areas", size=23)
+plt.ylabel("ratio of area", size=23)
 plt.show()
-#fig.savefig('area.png')
+#fig.savefig('tablecontrols2.png')
